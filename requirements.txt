@@ -1,0 +1,5 @@
+torch==2.3.0+cu121
+numpy==1.26.0
+matplotlib==3.8.2
+albumentations==1.4.7
+tqdm==4.66.2
