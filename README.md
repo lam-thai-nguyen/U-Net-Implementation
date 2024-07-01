@@ -1,8 +1,6 @@
-# Implementation of U-Net Convolutional Networks for Biomedical Image Segmentation
+# U-Net CNN for Biomedical Image Segmentation (From Scratch)
 
-- Dataset Source: [Carvana Image Masking Challenge](https://www.kaggle.com/competitions/carvana-image-masking-challenge/data).
-
-- Tutorial YouTube Video: [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k&list=LL&index=1&t=2094s&ab_channel=AladdinPersson).
+- [paper](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) | [dataset](https://www.kaggle.com/competitions/carvana-image-masking-challenge/data) | [tutorital](https://www.youtube.com/watch?v=IHq1t7NxS8k&list=LL&index=1&t=2094s&ab_channel=AladdinPersson)
 
 - After downloading the dataset, organize the data folder as follows:
 
@@ -28,3 +26,5 @@ Epoch 1
 Accuracy: 99.12%
 Dice score: 0.9806301593780518
 ```
+
+- It took too long so I only run for 1 epoch.
